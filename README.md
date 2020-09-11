@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://github.com/BetaPundit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BetaPundit&show_icons=true&theme=tokyonight&count_private=true&line_height=32" alt="Aditya's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BetaPundit&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
 <div align="center">
