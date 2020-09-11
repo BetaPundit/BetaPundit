@@ -1,5 +1,7 @@
 ## Hi, I'm [Aditya Sharma](https://adityasharma.live) 👋
 
+![](https://komarev.com/ghpvc/?username=BetaPundit)
+
 <a href="https://twitter.com/BetaPundit">
   <img align="left" alt="Aditya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
