@@ -23,10 +23,10 @@
 
 
 - 🔭 I’m currently working on [YogaGuru](https://github.com/BetaPundit/Yoga-Guru)
-- 🌱 I’m currently learning Flutter and DL
+- 🌱 I’m forever a student of life
 - 👯 I’m looking to collaborate on Deep learning projects
-- 🤔 My favourite quuote: Keep it Simple Stupud! 
-- 💬 Ask me about any Tech!
+- 🤔 My favourite quote: `Keep it Simple Stupid!`
+- 💬 Ask me about Computer Vision & Flutter!
 - 📫 How to reach me: [email](mailto:adityaas26@gmail.com), [LinkedIn](https://linkedin.com/in/aditya-sharma26)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love cats
