@@ -1,4 +1,4 @@
-## Hi, I'm [Aditya Sharma](https://adityasharma.live) 👋
+## Hi, I'm [Aditya Sharma](https://adityasharma.co) 👋
 
 ![](https://komarev.com/ghpvc/?username=BetaPundit)
 
@@ -34,7 +34,7 @@
 [![Twitter: BetaPundit](https://img.shields.io/twitter/follow/BetaPundit?style=social)](https://twitter.com/BetaPundit)
 [![Linkedin: aditya sharma](https://img.shields.io/badge/-aditya_sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sharma26/)](https://www.linkedin.com/in/aditya-sharma26/)
 [![GitHub BetaPundit](https://img.shields.io/github/followers/BetaPundit?label=follow&style=social)](https://github.com/BetaPundit)
-[![website](https://img.shields.io/badge/PortfolioWebsite-adityasharma.live-2648ff?style=flat-square&logo=google-chrome)](https://adityasharma.live/)
+[![website](https://img.shields.io/badge/Portfolio_Website-adityasharma.co-2648ff?style=flat-square&logo=google-chrome)](https://adityasharma.co/)
 
 
 ### Languages and Tools:  
