@@ -1,1 +1,16 @@
-<svg id="Artwork" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 266.79 269.02"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:url(#linear-gradient-2);}</style><clipPath id="clip-path"><polygon class="cls-1" points="200.76 95.86 136.29 59.02 136.29 210 162.05 195.04 162.05 152.57 181.5 163.82 181.39 134.77 162.05 123.72 162.05 106.85 200.85 129.27 200.76 95.86"/></clipPath><linearGradient id="linear-gradient" x1="60.08" y1="134.33" x2="218.39" y2="134.33" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff6f00"/><stop offset="1" stop-color="#ffa800"/></linearGradient><clipPath id="clip-path-2"><polygon class="cls-1" points="66.03 95.86 130.5 59.02 130.5 210 104.74 195.04 104.74 106.85 65.94 129.27 66.03 95.86"/></clipPath><linearGradient id="linear-gradient-2" x1="59" y1="134.33" x2="217.32" y2="134.33" xlink:href="#linear-gradient"/></defs><title>FullColorPrimary Icon</title><g class="cls-2"><rect class="cls-3" x="60.08" y="58.47" width="158.31" height="151.72"/></g><g class="cls-4"><rect class="cls-5" x="59" y="58.47" width="158.31" height="151.72"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="287px" viewBox="0 0 256 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF6F00" offset="0%"></stop>
+            <stop stop-color="#FFA800" offset="100%"></stop>
+        </linearGradient>
+        <path d="M133.446809,0 L256,69.7191489 L256,133.446809 L182.468085,90.4170213 L182.468085,122.553191 L218.961702,143.795745 L219.506383,198.808511 L182.468085,177.565957 L182.468085,258.178723 L133.446809,286.502128 L133.446809,0 Z M122.553191,0 L122.553191,286.502128 L73.5319149,258.178723 L73.5319149,90.4170213 L0,133.446809 L0,69.7191489 L122.553191,0 Z" id="path-2"></path>
+    </defs>
+    <g>
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+    </g>
+</svg>
