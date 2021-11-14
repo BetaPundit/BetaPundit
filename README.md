@@ -15,6 +15,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love cats 😻
 
+<br/>
+
 [![Twitter: BetaPundit](https://img.shields.io/twitter/follow/BetaPundit?style=social)](https://twitter.com/BetaPundit)
 [![Linkedin: aditya sharma](https://img.shields.io/badge/-aditya_sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sharma26/)](https://www.linkedin.com/in/aditya-sharma26/)
 [![GitHub BetaPundit](https://img.shields.io/github/followers/BetaPundit?label=follow&style=social)](https://github.com/BetaPundit)
