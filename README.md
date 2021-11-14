@@ -25,16 +25,23 @@
 
 ### Skills and Tools: <img alt="Aditya's skills" width="26px" src="assets/skills.gif" /> 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<img align="left" height="28" src="assets/flutter.svg">
+<img align="left" height="28" src="assets/dart.svg">
+<img align="left" height="28" src="assets/python.svg">
+<img align="left" height="28" src="assets/html.svg">
+<img align="left" height="28" src="assets/css.svg">
+<img align="left" height="28" src="assets/javascript.svg">
+<img align="left" height="28" src="assets/reactjs.svg">
+<img align="left" height="28" src="assets/vuejs.svg">
+<img align="left" height="28" src="assets/nodejs.svg">
+<img align="left" height="28" src="assets/mongodb.svg">
+<img align="left" height="28" src="assets/tensorflow.svg">
+<img align="left" height="28" src="assets/firebase.svg">
+<img align="left" height="28" src="assets/git.svg">
+<img align="left" height="28" src="assets/docker.svg">
 
+<br/>
+<br/>
 <br/>
 
 ### Quick Stats:  
@@ -54,19 +61,19 @@
 ### Connect with me:<img alt="Aditya's skills" width="64px" src="assets/handshake.gif" />
 
 <a href="https://twitter.com/BetaPundit">
-  <img align="left" alt="Aditya's Twitter" width="24px" src="assets/twitter_icon_color.svg" />
+  <img align="left" alt="Aditya's Twitter" width="26px" src="assets/twitter_icon_color.svg" />
 </a>
 <a href="https://linkedin.com/in/aditya-sharma26">
-  <img align="left" alt="Aditya's Linkdein" width="24px" src="assets/linkedin_icon_color.svg" />
+  <img align="left" alt="Aditya's Linkdein" width="26px" src="assets/linkedin_icon_color.svg" />
 </a>
 <a href="https://github.com/BetaPundit">
-  <img align="left" alt="Aditya's Github" width="24px" src="assets/github_icon_color.svg" />
+  <img align="left" alt="Aditya's Github" width="26px" src="assets/github_icon_color.svg" />
 </a>
 <a href="https://instagram.com/_the_moody_man/">
-  <img align="left" alt="Aditya's Instagram" width="24px" src="assets/instagram_icon_color.svg" />
+  <img align="left" alt="Aditya's Instagram" width="26px" src="assets/instagram_icon_color.svg" />
 </a>
 <a href="https://www.facebook.com/BetaPundit/">
-  <img align="left" alt="Aditya's Facebook" width="24px" src="assets/facebook_icon_color.svg" />
+  <img align="left" alt="Aditya's Facebook" width="26px" src="assets/facebook_icon_color.svg" />
 </a>
 
 <br/>
