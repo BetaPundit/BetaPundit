@@ -26,28 +26,26 @@
 <br/>
 
 ### Skills and Tools: <img alt="Aditya's skills" width="26px" src="assets/skills.gif" /> 
+<p float="left">
+  <img height="28" src="assets/flutter.svg"> &nbsp;
+  <img height="28" src="assets/dart.svg"> &nbsp;
+  <img height="28" src="assets/python.svg"> &nbsp;
+  <img height="28" src="assets/html.svg"> &nbsp;
+  <img height="28" src="assets/css.svg"> &nbsp;
+  <img height="28" src="assets/javascript.svg"> &nbsp;
+  <img height="28" src="assets/reactjs.svg"> &nbsp;
+  <img height="28" src="assets/vuejs.svg"> &nbsp;
+  <img height="28" src="assets/nodejs.svg"> &nbsp;
+  <img height="28" src="assets/mongodb.svg"> &nbsp;
+  <img height="28" src="assets/tensorflow.svg"> &nbsp;
+  <img height="28" src="assets/firebase.svg"> &nbsp;
+  <img height="28" src="assets/git.svg"> &nbsp;
+  <img height="28" src="assets/docker.svg">
+</p>
 
-<img align="left" height="28" src="assets/flutter.svg">
-<img align="left" height="28" src="assets/dart.svg">
-<img align="left" height="28" src="assets/python.svg">
-<img align="left" height="28" src="assets/html.svg">
-<img align="left" height="28" src="assets/css.svg">
-<img align="left" height="28" src="assets/javascript.svg">
-<img align="left" height="28" src="assets/reactjs.svg">
-<img align="left" height="28" src="assets/vuejs.svg">
-<img align="left" height="28" src="assets/nodejs.svg">
-<img align="left" height="28" src="assets/mongodb.svg">
-<img align="left" height="28" src="assets/tensorflow.svg">
-<img align="left" height="28" src="assets/firebase.svg">
-<img align="left" height="28" src="assets/git.svg">
-<img align="left" height="28" src="assets/docker.svg">
-
-<br/>
-<br/>
 <br/>
 
 ### Quick Stats:  
-
 
 <a href="https://github.com/BetaPundit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaPundit&theme=dark&hide=TCL" />
