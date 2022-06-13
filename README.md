@@ -1,4 +1,4 @@
-## Hi, I'm [Aditya Sharma](https://adityasharma.co) <img src="assets/hi.gif" width="24px" /> 
+## Hi, I'm [Aditya Sharma](https://adityasharma.co) &nbsp; <img src="assets/hi.gif" width="24px" height="24px" /> 
 
 ![](https://komarev.com/ghpvc/?username=BetaPundit)
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-### Skills and Tools: <img alt="Aditya's skills" width="26px" src="assets/skills.gif" /> 
+### Skills and Tools: &nbsp; <img alt="Aditya's skills" width="26px" height="26px" src="assets/skills.gif" /> 
 <p float="left">
   <img height="28" src="assets/flutter.svg"> &nbsp;
   <img height="28" src="assets/dart.svg"> &nbsp;
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-### Connect with me:<img alt="Aditya's skills" width="64px" src="assets/handshake.gif" />
+### Connect with me: <img alt="Aditya's skills" width="64px" height="30px" src="assets/handshake.gif" />
 
 <a href="https://twitter.com/BetaPundit">
   <img align="left" alt="Aditya's Twitter" width="26px" src="assets/twitter_icon_color.svg" />
